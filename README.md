@@ -52,8 +52,7 @@ A fictional telco company that provided home phone and Internet services to 7043
 ### Q1. Please read the file and explain data types statistically as well as how python is reading it. Please let us know if any data type is read wrong.
 ### Q2. Please apply appropriate statistical measures using python based on data types.
 ### Q3. What is the percentage of females and senior citizens in this data set? Please create appropriate plots and explain the plots.
-### Q4. Please create an appropriate plot to examine the distribution of the tenure month column and explain the distribution. Based on distribution, perform appropriate statistical measures.
-###     Please also explain if the variable is symmetric or skewed. Please calculate it. Explain everything as asked.
+### Q4. Please create an appropriate plot to examine the distribution of the tenure month column and explain the distribution. Based on distribution, perform appropriate statistical measures. Please also explain if the variable is symmetric or skewed. Please calculate it. Explain everything as asked.
 ### Q5. Please convert all binary columns into 0 and 1 using appropriate programming constructs, not one by one.
 ### Q6. Please examine the distribution of monthly charges between males and females using box plots. Please explain the results also.
 ### Q7. Please find what is the minimum total charges for Los Angeles city. Please find which zip code has the maximum total charges.
